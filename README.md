@@ -13,9 +13,10 @@ Welcome to my GitHub sanctuary where I sculpt code into elegant solutions! I'm S
 ## Skills
 
 - **Programming Languages:** Java, JavaScript
-- **Web Technologies:** HTML5, CSS3
-- **Database:** MySQL
+- **Web Technologies:** HTML5, CSS3, BootStrap, 
+- **Database:** MySQL, Oracle SQl
 - **Other:** Git, GitHub
+- - **FrameWorks:** SpringBoot, Hibernate , Servlets 
 
 ## Interests
 
